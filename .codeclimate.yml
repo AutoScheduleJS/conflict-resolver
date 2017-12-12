@@ -1,0 +1,20 @@
+version: '2'
+plugins:
+  duplication:
+    enabled: true
+    config:
+      languages:
+        javascript:
+          mass_threshold: 65
+  tslint:
+    enabled: false
+    channel: beta
+exclude_patterns:
+- '**/*.test.ts'
+- 'dist/'
+- 'node_modules/'
+- 'coverage/'
+checks:
+  file-lines:
+    config:
+      threshold: 350
