@@ -37,7 +37,7 @@
   "homepage": "https://github.com/AutoScheduleJS/conflict-resolver#readme",
   "dependencies": {},
   "devDependencies": {
-    "@semantic-release/release-notes-generator": "^6.0.3",
+    "@semantic-release/release-notes-generator": "^7.0.1",
     "@types/ramda": "github:types/npm-ramda#dist",
     "ava": "^0.24.0",
     "concurrently": "^3.5.1",
