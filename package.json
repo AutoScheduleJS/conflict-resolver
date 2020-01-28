@@ -41,7 +41,7 @@
     "@types/ramda": "github:types/npm-ramda#dist",
     "ava": "^0.24.0",
     "concurrently": "^3.5.1",
-    "cz-conventional-changelog": "^2.1.0",
+    "cz-conventional-changelog": "^3.1.0",
     "intervals-fn": "^2.5.2",
     "moment": "^2.19.2",
     "nyc": "^11.3.0",
